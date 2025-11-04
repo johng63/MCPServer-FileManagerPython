@@ -1,0 +1,7 @@
+{
+	    "file-manager": {
+      "command": "python",
+      "args": ["C:\\MCPServer-FileManagerPython\\server.py"]
+    }
+  }
+}
